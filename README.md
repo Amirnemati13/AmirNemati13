@@ -1,6 +1,10 @@
 <div align="center">
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=amirnemati13&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amirnemati13" />
 
