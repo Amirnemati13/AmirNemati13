@@ -54,6 +54,6 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirnemati13&theme=radical&hide_border=true" alt="amirnemati13" />
+<img src="https://streak-stats.demolab.com/?user=amirnemati13&theme=radical&hide_border=true" alt="amirnemati13" />
 
 </div>
