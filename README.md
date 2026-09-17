@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amir Nemati</h1>
 <h3 align="center">Architect turned AI Researcher | Building automation & intelligent workflows</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirnemati13&label=Profile%20views&color=0e75b6&style=flat" alt="amirnemati13" /> </p>
+
 🔭 I’m currently working on Studio-Amir
+
 🌱 I’m currently learning N8N
+
 💬 Ask me about ML & AI
+
 📫 How to reach me nematia13@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amir_nemati_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amir_nemati_1" height="30" width="40" /></a>
