@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/amirnemati13/amirnemati13/main/my-animation.gif" width="190" hspace="20" alt="animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
 
 <br/>
 
@@ -99,10 +99,6 @@ I'm an architect by training (B.Sc. in Architecture) who moved into the world of
 ### 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com/?user=amirnemati13&theme=radical&hide_border=true" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=amirnemati13&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%" alt="footer" />
 
