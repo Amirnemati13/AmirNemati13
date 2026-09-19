@@ -1,24 +1,23 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=130&section=header&text=Amir%20Nemati&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Architect%20turned%20AI%20Researcher&descAlignY=60&descSize=16" width="100%" alt="header" />
 
-<img src="https://raw.githubusercontent.com/amirnemati13/amirnemati13/main/my-animation.gif" width="400" alt="animation" />
+<img align="right" src="https://raw.githubusercontent.com/amirnemati13/amirnemati13/main/my-animation.gif" width="190" hspace="20" alt="animation" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
+🔭 &nbsp;Currently working on <b>Studio-Amir</b><br/>
+🌱 &nbsp;Currently learning <b>N8N</b><br/>
+💬 &nbsp;Ask me about <b>ML & AI</b><br/>
+📫 &nbsp;<b>nematia13@gmail.com</b>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=amirnemati13&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amirnemati13" />
 
-<br/><br/>
+<br clear="right"/>
 
-🔭 &nbsp;Currently working on **Studio-Amir**
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🌱 &nbsp;Currently learning **N8N**
-&nbsp;&nbsp;|&nbsp;&nbsp;
-💬 &nbsp;Ask me about **ML & AI**
-
-📫 &nbsp;**nematia13@gmail.com**
+<div align="center">
 
 <br/>
 
@@ -61,5 +60,7 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=amirnemati13&theme=radical&hide_border=true" alt="amirnemati13" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
