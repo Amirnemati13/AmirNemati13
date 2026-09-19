@@ -98,11 +98,6 @@ I'm an architect by training (B.Sc. in Architecture) who moved into the world of
 
 ### 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=amirnemati13&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnemati13&layout=compact&theme=radical&hide_border=true" height="170" alt="top langs" />
-</p>
-
 <img src="https://streak-stats.demolab.com/?user=amirnemati13&theme=radical&hide_border=true" alt="streak" />
 
 <br/>
