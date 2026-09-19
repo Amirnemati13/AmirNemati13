@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img src="./my-animation.gif" width="400" alt="animation" />
 
 <br/>
 
