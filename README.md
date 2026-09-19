@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/amirnemati13/amirnemati13/main/my-animation.gif" width="190" hspace="20" alt="animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
 
 <br/>
 
@@ -16,6 +16,15 @@
 <img src="https://komarev.com/ghpvc/?username=amirnemati13&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amirnemati13" />
 
 <br clear="right"/>
+
+### 👨‍💻 About me
+
+I'm an architect by training (B.Sc. in Architecture) who moved into the world of AI and automation. I've worked as an architect at a design firm and as a freelancer, and today I combine design thinking with code to build intelligent workflows.
+
+- ⚙️ Building automations with **n8n**, **Notion** and **Telegram bots**
+- 🤖 Exploring generative AI (**ComfyUI / Stable Diffusion**) and prompt engineering
+- 🐍 Writing **Python** and working on algorithms, data structures and design patterns
+- 🏆 1st place, Imam Hossein University monument competition (2025)
 
 <div align="center">
 
@@ -59,7 +68,46 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=amirnemati13&theme=radical&hide_border=true" alt="amirnemati13" />
+### ⚙️ Automation & AI
+
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="notion" />
+<img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="telegram" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/ComfyUI-0E75B6?style=flat-square" alt="comfyui" />
+<img src="https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=flat-square" alt="stable diffusion" />
+</p>
+
+<br/>
+
+### 🏛️ Architecture & Design Tools
+
+<p>
+<img src="https://img.shields.io/badge/Rhino-0E75B6?style=flat-square" alt="rhino" />
+<img src="https://img.shields.io/badge/Grasshopper-3FA34D?style=flat-square" alt="grasshopper" />
+<img src="https://img.shields.io/badge/Revit-186BFF?style=flat-square" alt="revit" />
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square" alt="autocad" />
+<img src="https://img.shields.io/badge/3ds%20Max-0696D7?style=flat-square" alt="3ds max" />
+<img src="https://img.shields.io/badge/Lumion-1F1F1F?style=flat-square" alt="lumion" />
+<img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square" alt="sketchup" />
+<img src="https://img.shields.io/badge/Marvelous%20Designer-000000?style=flat-square" alt="marvelous designer" />
+</p>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=amirnemati13&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnemati13&layout=compact&theme=radical&hide_border=true" height="170" alt="top langs" />
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=amirnemati13&theme=radical&hide_border=true" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=amirnemati13&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%" alt="footer" />
 
