@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/amirnemati13/amirnemati13/main/my-animation.gif" width="190" hspace="20" alt="animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
 
 <br/>
 
@@ -49,7 +49,6 @@ I'm an architect by training (B.Sc. in Architecture) who moved into the world of
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
@@ -57,13 +56,11 @@ I'm an architect by training (B.Sc. in Architecture) who moved into the world of
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
 <br/>
@@ -92,6 +89,9 @@ I'm an architect by training (B.Sc. in Architecture) who moved into the world of
 <img src="https://img.shields.io/badge/Lumion-1F1F1F?style=flat-square" alt="lumion" />
 <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square" alt="sketchup" />
 <img src="https://img.shields.io/badge/Marvelous%20Designer-000000?style=flat-square" alt="marvelous designer" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square" alt="figma" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square" alt="photoshop" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square" alt="unreal engine" />
 </p>
 
 <br/>
