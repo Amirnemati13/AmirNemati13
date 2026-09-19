@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/amirnemati13/amirnemati13/main/my-animation.gif" width="190" hspace="20" alt="animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Nemati;Architect+turned+AI+Researcher;Building+automation+%26+intelligent+workflows" alt="Typing SVG" />
 
 <br/>
 
