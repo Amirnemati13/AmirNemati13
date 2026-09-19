@@ -98,8 +98,14 @@ I'm an architect by training (B.Sc. in Architecture) who moved into the world of
 
 ### 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=amirnemati13&theme=radical&hide_border=true" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirnemati13/amirnemati13/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirnemati13/amirnemati13/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/amirnemati13/amirnemati13/output/github-snake-dark.svg" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%" alt="footer" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=amirnemati13&theme=radical&hide_border=true" alt="streak" />
 
 </div>
