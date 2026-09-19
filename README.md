@@ -1,6 +1,6 @@
 <div align="center">
-  
-<img src="./my-animation.gif" width="400" alt="animation" />
+
+<img src="https://raw.githubusercontent.com/amirnemati13/amirnemati13/main/my-animation.gif" width="400" alt="animation" />
 
 <br/>
 
